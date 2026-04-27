@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="villageBlacksmith" loading_mode="OVERRIDE" count_min="3" count_max="9">
+    <loot item="minecraft:diamond" damage="0" weight="3" count_min="1" count_max="3"/>
+    <loot item="minecraft:iron_ingot" damage="0" weight="10" count_min="1" count_max="5"/>
+    <loot item="minecraft:gold_ingot" damage="0" weight="5" count_min="1" count_max="3"/>
+    <loot item="minecraft:bread" damage="0" weight="15" count_min="1" count_max="3"/>
+    <loot item="minecraft:apple" damage="0" weight="15" count_min="1" count_max="3"/>
+    <loot item="minecraft:iron_pickaxe" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_sword" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_chestplate" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_helmet" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_leggings" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_boots" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="minecraft:obsidian" damage="0" weight="5" count_min="3" count_max="7"/>
+    <loot item="minecraft:sapling" damage="0" weight="5" count_min="3" count_max="7"/>
+    <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:golden_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:diamond_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Botania:blackLotus" damage="0" weight="6" count_min="1" count_max="1"/>
+    <loot item="EnderIO:itemAlloy" damage="0" weight="20" count_min="2" count_max="6"/>
+    <loot item="EnderIO:itemAlloy" damage="3" weight="35" count_min="3" count_max="6"/>
+    <loot item="EnderIO:itemAlloy" damage="6" weight="35" count_min="3" count_max="6"/>
+    <loot item="EnderIO:itemAlloy" damage="5" weight="10" count_min="1" count_max="2"/>
+    <loot item="EnderIO:itemAlloy" damage="2" weight="5" count_min="1" count_max="2"/>
+    <loot item="EnderIO:item.darkSteel_sword" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="EnderIO:item.darkSteel_boots" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
+    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" weight="6" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemResource" damage="2" weight="10" count_min="1" count_max="3"/>
+    <loot item="am2pg:resource" damage="1" weight="5" count_min="3" count_max="8"/>
+    <loot item="IguanaTweaksTConstruct:wearableBucket" damage="0" weight="1" count_min="0" count_max="1"/>
+</LootGroup>
